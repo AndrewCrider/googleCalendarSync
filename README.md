@@ -23,6 +23,5 @@
 
 ## Further Information
  This project was a module for a Generative AI based Assistant that I'm working on.  Some other information that you might find useful:
- * [Personality and AI — Create an AI Assistant Team](https://medium.com/datadriveninvestor/personality-and-ai-create-an-ai-assistant-team-0faf01f82a44)
-         [GitHub](https://github.com/AndrewCrider/Generate-Jarvis)
+ * [Personality and AI — Create an AI Assistant Team](https://medium.com/datadriveninvestor/personality-and-ai-create-an-ai-assistant-team-0faf01f82a44) - [GitHub Repository](https://github.com/AndrewCrider/Generate-Jarvis)
  * [You Need to Build Your own Personal Corpus before the Singularity](https://medium.com/@andrewcrider/you-need-to-build-your-own-personal-corpus-before-the-singularity-bf13c8c10925)
