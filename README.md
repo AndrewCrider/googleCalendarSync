@@ -1,6 +1,6 @@
 # googleCalendarSync
  
- Find out more at https://medium.com/technology-hits/create-an-automated-database-of-your-google-calendar-events-e3edb75e681e.
+ Find out more at [Create an Automated Database of Your Google Calendar Events](https://medium.com/technology-hits/create-an-automated-database-of-your-google-calendar-events-e3edb75e681e).
 
 ## Prerequisites
  This repository is designed to be used as a Google Cloud Function.  It uses the following capabilities:
@@ -23,6 +23,6 @@
 
 ## Further Information
  This project was a module for a Generative AI based Assistant that I'm working on.  Some other information that you might find useful:
- * Personality and AI — Create an AI Assistant Team(https://medium.com/datadriveninvestor/personality-and-ai-create-an-ai-assistant-team-0faf01f82a44)
-   GitHub(https://github.com/AndrewCrider/Generate-Jarvis)
- * You Need to Build Your own Personal Corpus before the Singularity(https://medium.com/@andrewcrider/you-need-to-build-your-own-personal-corpus-before-the-singularity-bf13c8c10925)
+ * [Personality and AI — Create an AI Assistant Team](https://medium.com/datadriveninvestor/personality-and-ai-create-an-ai-assistant-team-0faf01f82a44)
+   [GitHub](https://github.com/AndrewCrider/Generate-Jarvis)
+ * [You Need to Build Your own Personal Corpus before the Singularity](https://medium.com/@andrewcrider/you-need-to-build-your-own-personal-corpus-before-the-singularity-bf13c8c10925)
