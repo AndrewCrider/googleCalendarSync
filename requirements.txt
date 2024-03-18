@@ -1,2 +1,3 @@
 google-api-python-client
 firebase-admin
+functions-framework==3.*
